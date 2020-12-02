@@ -1,2 +1,2 @@
-# Accelerometer_podiatry_gihan
+# Accelerometer_podiatry
 Predicting Energy Expenditure and PA intensity Categories for Podiatry Accelerometer Readings
